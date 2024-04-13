@@ -1,1 +1,0 @@
-hi this is React+vite project for bg changer
